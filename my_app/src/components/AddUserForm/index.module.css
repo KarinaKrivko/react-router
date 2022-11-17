@@ -1,20 +1,20 @@
-.add_team_form{
+.add_user_form{
 width: 88%;
 margin: 50px auto;
 border: 3px solid green;
 padding: 20px;
 border-radius: 15px;
-
+    
 display: flex;
 flex-direction: column;
 gap: 15px;
 }
 
-.add_team_input {
+.add_user_input {
 padding: 7px;
-}
-
-.add_team_form button {
+        }
+        
+.add_user_form button {
 background: green;
 color: white;
 border: none;
@@ -23,4 +23,4 @@ font-size: 16px;
 font-weight: 400;
 border-radius: 10px;
 }
-
+        
